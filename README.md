@@ -1,7 +1,7 @@
 # good-git
 check yer gits
 
-# HOW TO INSTALL
+## HOW TO INSTALL
 
 1. make sure this folder is in your home directory
 
