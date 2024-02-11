@@ -1,6 +1,3 @@
-# good-git
-check yer gits
-
 ## HOW TO INSTALL
 
 1. make sure this folder is in your home directory
@@ -12,10 +9,9 @@ check yer gits
 ## HOW TO USE
 
 1. rename all your git folders that you want to check. Make sure they end on '.gg'
-	for example 'git_folder.gg'
+for example 'git_folder.gg'
 
-2. 'check' -- 
-   	enter this command in the terminal (without brackets, so just: check). 
+2. 'check' -- enter this command in the terminal (without brackets, so just: check). 
 	It will take half a minute to check wich git folders are already properly pushed.
 	'OK' means okay
 	'!!!' means you need to some stuff. Either git add, commit, push or whatever.
