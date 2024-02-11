@@ -1,7 +1,7 @@
 # good-git
 check yer gits
 
-HOW TO INSTALL
+# HOW TO INSTALL
 
 1. make sure this folder is in your home directory
 
@@ -9,7 +9,7 @@ HOW TO INSTALL
 
 3. execute the ./install.sh file
 
-HOW TO USE
+## HOW TO USE
 
 1. rename all your git folders that you want to check. Make sure they end on '.gg'
 	for example 'git_folder.gg'
